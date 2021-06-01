@@ -41,3 +41,5 @@
     * [Ch 11: ModSplines](./Mods-11-Modsplines.md)
     * [Ch 12: Chart](./Mods-12-Chart-Mods.md)
     * [Ch 13: Miscellaneous](./Mods-13-Miscelaneous-Mods.md)
+* ***Guide to Theming***
+	* [Modules](./Theming-Modules.md)
